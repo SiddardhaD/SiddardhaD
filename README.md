@@ -26,7 +26,7 @@ I’ve worked on projects ranging from **ride-sharing apps, ed-tech platforms, P
 - 🌐 Worked with **Node.js, Flask** backends and integrated multiple APIs & payment gateways.  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 ![Siddardha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddardhaD&show_icons=true&theme=tokyonight)  
@@ -35,10 +35,9 @@ I’ve worked on projects ranging from **ride-sharing apps, ed-tech platforms, P
 
 
 ---
-
+-->
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddardha-devarayapalli-80359122a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddardhadevarayapalli@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddardha-devarayapalli-80359122a/)   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddardhadevarayapalli@gmail.com)  
 
 💻 Code | 📱 Mobile Apps | ☁️ Cloud | 🛠️ APIs | 🚀 Deployments  
