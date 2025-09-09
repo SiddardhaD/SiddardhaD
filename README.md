@@ -33,23 +33,12 @@ I’ve worked on projects ranging from **ride-sharing apps, ed-tech platforms, P
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddardhaD&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddardhaD&theme=tokyonight)  
 
----
-
-## 🌟 Highlight Projects  
-
-- 🚖 **Driver Booking App** – professional UI, maps integration, online/offline driver status.  
-- 📚 **Student Learning App** – education-level book search & YouTube shorts integration.  
-- 🏠 **Konnect Homes IoT** – end-to-end IoT app with backend in Python Flask + Flutter frontend.  
-- 💳 **POS System** – real-time sync, WebSockets, Realm DB, multi-role logins.  
-
-👉 *Check my pinned repositories for more!*  
 
 ---
 
 ## 📫 Connect With Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://aritaa.in)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddardhadevarayapalli)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddardha-devarayapalli-80359122a/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddardhadevarayapalli@gmail.com)  
 
 💻 Code | 📱 Mobile Apps | ☁️ Cloud | 🛠️ APIs | 🚀 Deployments  
