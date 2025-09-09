@@ -1,5 +1,5 @@
 <!-- Banner (replace link with your own banner image) -->
-![Flutter Developer Banner](https://raw.githubusercontent.com/SiddardhaD/SiddardhaD/main/assets/banner.png)
+![Flutter Developer Banner]([https://raw.githubusercontent.com/SiddardhaD/SiddardhaD/main/assets/banner.png](https://github.com/SiddardhaD/SiddardhaD/blob/main/assets/github-header-banner.png))
 
 # 👋 Hi, I'm Siddardha Devarayapalli  
 
