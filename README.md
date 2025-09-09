@@ -11,14 +11,7 @@ I’ve worked on projects ranging from **ride-sharing apps, ed-tech platforms, P
 
 ## 🛠️ Tech Stack  
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)   ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
@@ -26,11 +19,11 @@ I’ve worked on projects ranging from **ride-sharing apps, ed-tech platforms, P
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- 🚖 Built **Driver Booking App** (like Ola/Uber) – maps, OTP login, trips, heat maps.  
+- 🚖 Built **Driver Booking App** (like Ola/Uber) – Maps, OTP login, trips, heat maps.  
 - 📚 Developed **Ed-Tech Student App** – book search, video integration, admin panel.  
-- 🏠 Created **Konnect Homes IoT App** – control appliances with Flutter + Flask APIs.  
+- 🏠 Created **Smart Homes IoT App** – control appliances with Flutter + Flask APIs.  
 - 💳 Designed **POS System with Real-time Sync** – Realm DB + WebSockets + multi-user roles.  
-- 🌐 Worked with **Node.js, Django, Flask** backends and integrated multiple APIs & payment gateways.  
+- 🌐 Worked with **Node.js, Flask** backends and integrated multiple APIs & payment gateways.  
 
 ---
 
