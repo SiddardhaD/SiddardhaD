@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Siddardha Devarayapalli  
 
 🚀 **Mobile App Developer | Flutter Specialist | Full-Stack Enthusiast**  
-I have **5+ years of experience** building scalable and high-performance mobile applications, with **3.5+ years focused on Flutter and Dart**.  
+I have **6+ years of experience** building scalable and high-performance mobile applications, with **3.5+ years focused on Flutter and Dart**.  
 I’ve worked on projects ranging from **ride-sharing apps, ed-tech platforms, POS systems, to IoT smart home solutions**.  
 
 ---
